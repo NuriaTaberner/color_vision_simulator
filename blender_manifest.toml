@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "color_vision_simulator"
+version = "1.0.0"
+name = "Color Vision Simulator"
+tagline = "Simulate color blindness and grayscale in the viewport"
+maintainer = "Nuria Taberner"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["3D View", "Compositing"]
